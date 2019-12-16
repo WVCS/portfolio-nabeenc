@@ -1,11 +1,16 @@
-<html>
 <head>
+    <title>porfolio</title>
+    <LINK href = "style.css" rel="stylesheet" type="text/css">
+      </head>
+    
 <body style="background-color:grey;">
   <h1 style="color:lightblue; text-align:center; font-family:courier; font-size:300%;">
     Humans of Westview High School
     </h>
-<body>
-  <p>
-  Humans Of Westview
-  </p>
-  <li><a href="HumansOfWestview">Collaborations</a>
+    <ul style="font-size:50%;">
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#why">Why</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="index.html">Back to Portfolio</a>
+    </ul>
