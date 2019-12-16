@@ -1,5 +1,11 @@
 <html>
+<head>
+<body style="background-color:grey;">
+  <h1 style="color:lightblue; text-align:center; font-family:courier; font-size:300%;">
+    Humans of Westview High School
+    </h>
 <body>
   <p>
   Humans Of Westview
   </p>
+  <li><a href="HumansOfWestview">Collaborations</a>
